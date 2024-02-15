@@ -1,5 +1,6 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/dAdAnEtnEtt/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/dAdAnEtnEtt/frontend-project-44/actions)
+[![Maintainability](https://api.codeclimate.com/v1/badges/e23663caa1befcfd9efe/maintainability)](https://codeclimate.com/github/dAdAnEtnEtt/frontend-project-44/maintainability)
 
 ### В этом проекте реализованны 5 простых игр запускаемых через терминал:
 
